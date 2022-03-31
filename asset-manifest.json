@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BreakingBadProject2/static/css/main.bf6cef29.css",
+    "main.js": "/BreakingBadProject2/static/js/main.39f66c06.js",
+    "index.html": "/BreakingBadProject2/index.html",
+    "main.bf6cef29.css.map": "/BreakingBadProject2/static/css/main.bf6cef29.css.map",
+    "main.39f66c06.js.map": "/BreakingBadProject2/static/js/main.39f66c06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf6cef29.css",
+    "static/js/main.39f66c06.js"
+  ]
+}
